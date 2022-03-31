@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Twitter_App</string>
+    <string name="todo">todo</string>
+    <string name="i_">I want to add a search icon to appear inside an\nEdittext in the left edge</string>
+    <string name="samandar">\@samandar • 1</string>
+    <string name="sam">Samandar</string>
+    <string name="as">Asiydinov Samandar</string>
+    <string name="_4">4</string>
+    <string name="_2">2</string>
+</resources>
